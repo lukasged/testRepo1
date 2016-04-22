@@ -1,0 +1,3 @@
+[submodule "testRepo2"]
+	path = testRepo2
+	url = git@github.com:lukasged/testRepo2.git
